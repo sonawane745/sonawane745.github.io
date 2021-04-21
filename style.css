@@ -67,3 +67,9 @@ section.copy p{
 .social a i.fa{
 color:white;
 }
+
+@media only screen and (max-width: 480px){
+    .navbar-brand img{
+        width: 217px;
+    }
+}
